@@ -12,6 +12,7 @@ System.out.println("Not an updated copy");
 System.out.println("pull branch-1");
 System.out.println("Pull");
 System.out.println("Raj");
+System.out.println("Update done by Branch-1");
 	}
 
 }
